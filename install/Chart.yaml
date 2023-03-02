@@ -3,7 +3,7 @@ name: alexstorm-hsm-clickhouse
 version: 0.1.0
 description: Clickhouse data service
 icon: "http://alexstorm.solenopsys.org/apps/assets/alexstorm-hsm-clickhouse.svg"
-
+appVersion: 1.0.0
 dependencies:
   - name: solenopsys-ds-clickhouse
     version: "0.1.3"
