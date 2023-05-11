@@ -8,6 +8,6 @@ service:
 containers:
   hs_adapter:
     name: alexstorm-hsm-clickhouse
-    image: registry.klogsolenopsys.org/alexstorm-hsm-clickhouse
+    image: registry.solenopsys.org/alexstorm-hsm-clickhouse
     pullPolicy: Always
 
